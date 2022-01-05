@@ -1,7 +1,7 @@
 {
   "version": 2,
   "artifactType": {
-    "type": "PACKAGED_MANIFESTS",
+    "type": "PROCESSED_RES",
     "kind": "Directory"
   },
   "applicationId": "com.example.hello",
@@ -12,7 +12,7 @@
       "filters": [],
       "versionCode": 10000,
       "versionName": "1.0.0",
-      "outputFile": "AndroidManifest.xml"
+      "outputFile": "resources-debug.ap_"
     }
   ]
 }
